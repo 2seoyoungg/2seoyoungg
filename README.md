@@ -18,6 +18,34 @@
 | 2025.09.05. ~ 09.18 | 공공데이터 활용 공모전 | 대덕특구 기술사업화를 위한 기술 검색 및 협력 네트워크 웹 서비스 개발 | 대전권 대학 산학협의체 |
 | 2025.08.10 ~ 08.14 | 제 26회 FIRA 세계대회 | 대회 진행요원 | 대구 엑스코 |
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-4B8BBE?logo=python&logoColor=white)
+
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-000000?logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0A4D68?logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-005BBB?logoColor=white)
+
+
+![Roboflow](https://img.shields.io/badge/Roboflow-FF6B00?logo=roboflow&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![GoogleDrive](https://img.shields.io/badge/Google_Drive-4285F4?logo=googledrive&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)
+
 
 
 
