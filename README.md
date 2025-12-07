@@ -65,7 +65,7 @@
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-4B8BBE?logo=python&logoColor=white)
 
 
-### 🤖 AI / Model :
+### 🤖 AI / 모델 :
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO11x-000000)
@@ -73,7 +73,7 @@
 ![FAISS](https://img.shields.io/badge/FAISS-005BBB)
 
 
-### 🤝 Collaboration / Tools :
+### 🤝 데이터 / 협업 :
 ![Roboflow](https://img.shields.io/badge/Roboflow-795CF3?logo=roboflow&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
