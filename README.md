@@ -50,7 +50,7 @@
 
 
 
-### 🎨 Frontend :
+### 🖥️ Frontend :
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
