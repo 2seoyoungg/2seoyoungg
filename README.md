@@ -74,7 +74,7 @@
 
 
 ### 🤝 Collaboration / Tools :
-![Roboflow](https://img.shields.io/badge/Roboflow-FF6B00?logo=roboflow&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-795CF3?logo=roboflow&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![GoogleDrive](https://img.shields.io/badge/Google_Drive-4285F4?logo=googledrive&logoColor=white)
