@@ -1,4 +1,8 @@
-## Hi 👋
+## 👋 About Me
+-  Computer Engineering Student, Hanbat National University (HBNU)
+- EcoAI Lab Undergraduate Researcher  
+- Areas of Interest: Data Analysis · LLM · Web/App Development
+
 
 ## Activities
 
