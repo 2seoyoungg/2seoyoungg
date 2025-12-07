@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e8,100:fff6a5&height=260&section=header&text=Shining%20day%20with%20you%20🌸&fontSize=55&animation=fadeIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e8,100:fff6a5&height=320&section=header&text=Nice%20to%20see%20you%20🌸&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+
 
 
 
