@@ -35,7 +35,7 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-000000?logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO11x-000000?logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0A4D68?logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-005BBB?logoColor=white)
 
